@@ -1,0 +1,27 @@
+{
+  "file_count": 600,
+  "extensions": {
+    ".bmp": 600
+  },
+  "classes": 100,
+  "class_range": [
+    "001",
+    "100"
+  ],
+  "class_sizes": {
+    "6": 100
+  },
+  "sample_indices": {
+    "(1, 2, 3, 4, 5, 6)": 100
+  },
+  "image_dimensions": {
+    "(128, 128)": 600
+  },
+  "image_modes": {
+    "L": 600
+  },
+  "duplicates_file": [],
+  "duplicates_pixels": [],
+  "errors": [],
+  "total_bytes": 10477200
+}

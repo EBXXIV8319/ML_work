@@ -1,0 +1,21 @@
+{
+  "created_date": "2026-10-22",
+  "status": "planning_evidence_only_no_model_training",
+  "split_rule": "SHA256(palmprint-v1|20261022|{class_id:03d}|{sample_id}) ascending; fold k test permutation[2k:2k+2], val permutation[(2k+2)%6], train others",
+  "per_fold": {
+    "train": 300,
+    "val": 100,
+    "test": 200
+  },
+  "fold_count": 3,
+  "test_coverage": 600,
+  "requirements_pdf_sha256": "b92250276719c74c44f01696dcbe3ef48d3c83e022907a0f3dd757e6f36761e5",
+  "files": {
+    "dataset-audit.json": "810bab10161ed825036547ea9727d946f06254ffa9bda664f6e2ceea229eba32",
+    "dataset-manifest.csv": "faed2ff2e9a7e6c36b30c1462f4c812c29a9295c3034b42edca61ca768020a97",
+    "dataset-samples.jpg": "7090edf678c04e486564983c50c48b34636282546ed15a7c37fbb52f89a0b415",
+    "image-quality-summary.json": "d5ab3395b85cf2d25651ac5da1c763842aabad29addfeb7c0b5702fcd05ffbdc",
+    "planned-splits.csv": "d2b4d15063aed72a46c13e32a2d0ca058b59b3d44ce09aea52838869de5b460f",
+    "plan-verification.json": "3290ab6c3954d371893abac40151276ac865b35cd2898720f62e4c0a6ec88afd"
+  }
+}

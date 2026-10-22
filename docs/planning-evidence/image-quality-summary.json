@@ -1,0 +1,117 @@
+{
+  "mean": {
+    "min": 154.353,
+    "median": 184.183,
+    "max": 240.537
+  },
+  "std": {
+    "min": 11.061,
+    "median": 24.4195,
+    "max": 62.474
+  },
+  "zero_fraction": {
+    "min": 0.0,
+    "median": 0.0,
+    "max": 0.09454
+  },
+  "near_white_fraction": {
+    "min": 0.0,
+    "median": 6e-05,
+    "max": 0.52484
+  },
+  "highest_near_white": [
+    {
+      "file": "100_5.bmp",
+      "mean": 240.537,
+      "std": 21.181,
+      "zero_fraction": 0.0,
+      "near_white_fraction": 0.52484
+    },
+    {
+      "file": "100_4.bmp",
+      "mean": 237.257,
+      "std": 26.596,
+      "zero_fraction": 0.0,
+      "near_white_fraction": 0.50909
+    },
+    {
+      "file": "100_6.bmp",
+      "mean": 239.922,
+      "std": 20.565,
+      "zero_fraction": 0.0,
+      "near_white_fraction": 0.50067
+    },
+    {
+      "file": "099_6.bmp",
+      "mean": 236.729,
+      "std": 27.427,
+      "zero_fraction": 0.00519,
+      "near_white_fraction": 0.39819
+    },
+    {
+      "file": "099_5.bmp",
+      "mean": 234.599,
+      "std": 31.832,
+      "zero_fraction": 0.0094,
+      "near_white_fraction": 0.37494
+    },
+    {
+      "file": "099_4.bmp",
+      "mean": 234.289,
+      "std": 33.32,
+      "zero_fraction": 0.01099,
+      "near_white_fraction": 0.36414
+    },
+    {
+      "file": "035_6.bmp",
+      "mean": 232.745,
+      "std": 20.921,
+      "zero_fraction": 0.0,
+      "near_white_fraction": 0.29565
+    },
+    {
+      "file": "034_5.bmp",
+      "mean": 232.311,
+      "std": 20.6,
+      "zero_fraction": 0.0,
+      "near_white_fraction": 0.29242
+    }
+  ],
+  "highest_zero": [
+    {
+      "file": "080_5.bmp",
+      "mean": 156.354,
+      "std": 55.786,
+      "zero_fraction": 0.09454,
+      "near_white_fraction": 0.0
+    },
+    {
+      "file": "087_1.bmp",
+      "mean": 171.149,
+      "std": 60.614,
+      "zero_fraction": 0.09418,
+      "near_white_fraction": 0.0
+    },
+    {
+      "file": "005_4.bmp",
+      "mean": 180.583,
+      "std": 62.417,
+      "zero_fraction": 0.08887,
+      "near_white_fraction": 0.00256
+    },
+    {
+      "file": "080_6.bmp",
+      "mean": 157.645,
+      "std": 54.529,
+      "zero_fraction": 0.08771,
+      "near_white_fraction": 0.0
+    },
+    {
+      "file": "100_3.bmp",
+      "mean": 179.675,
+      "std": 62.474,
+      "zero_fraction": 0.07507,
+      "near_white_fraction": 0.03003
+    }
+  ]
+}

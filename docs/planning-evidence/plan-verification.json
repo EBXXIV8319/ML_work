@@ -1,0 +1,33 @@
+{
+  "file": "大作业\\掌纹识别项目实现计划书.md",
+  "lines": 772,
+  "characters": 26395,
+  "fenced_blocks": 5,
+  "display_math_blocks": 14,
+  "network_parameter_count_checked": 372324,
+  "split_rows": 1800,
+  "original_files_hash_verified": 600,
+  "headings": [
+    "## 1. 项目目标与已确认决策",
+    "## 2. 作业原文到交付证据的对应关系",
+    "## 3. 数据审计结果与数据假设",
+    "## 4. 算法自编与基础库使用边界",
+    "## 5. 实验协议与防止数据泄漏",
+    "## 6. Gabor 相位识别分支",
+    "## 7. CNN 分支",
+    "## 8. 评价指标、阈值与统计口径",
+    "## 9. 必做实验矩阵与消融设计",
+    "## 10. 正确性验证方案",
+    "## 11. 工程组织与拟定运行接口",
+    "## 12. 性能与可复现性",
+    "## 13. 报告结构与应有图表",
+    "## 14. 实施阶段、工作量与交付门槛",
+    "## 15. 高标准验收与性能努力目标",
+    "## 16. 主要风险与应对",
+    "## 17. 最终交付清单",
+    "## 18. 参考依据与证据使用方式"
+  ],
+  "plan_sha256": "a9f194a8a9cae5b094a12dc35bfb682fec505aa15a787d7d0924783927d41126",
+  "math_structural_checks": "passed: 14 display equations; inline delimiters and braces balanced",
+  "model_training_performed": false
+}
